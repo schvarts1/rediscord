@@ -22,7 +22,7 @@
     "autoprefixer": "10.4.14",
     "class-variance-authority": "^0.7.0",
     "eslint": "^8.47.0",
-    "eslint-config-next": "13.4.13",
+    "eslint-config-next": "13.5.7",
     "livekit-client": "^1.13.2",
     "livekit-server-sdk": "^1.2.6",
     "next": "13.4.13",
